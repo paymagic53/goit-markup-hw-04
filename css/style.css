@@ -419,6 +419,7 @@ a {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    transform: translateY(0%);
 
 }
 
@@ -447,7 +448,7 @@ a {
 .img-container {
     position: relative;
     overflow: hidden;
-    transform: translateY(0%);
+
 }
 
 .text-four {
