@@ -436,6 +436,11 @@ a {
     background-color: #31d0aa;
 }
 
+.svgfoot {
+    fill: #f4f4fd;
+
+}
+
 .foot-p {
     line-height: 1.5;
     color: #f4f4fd;
