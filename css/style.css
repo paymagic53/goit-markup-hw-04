@@ -337,7 +337,14 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+}
 
+.hover .sociallistone: {
+    background-color: #404bbf;
+}
+
+.focus .sociallistone {
+    background-color: #404bbf;
 }
 
 .sect-tree-p {
