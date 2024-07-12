@@ -447,6 +447,7 @@ a {
 .img-container {
     position: relative;
     overflow: hidden;
+    transform: translateY(0%);
 }
 
 .text-four {
