@@ -339,11 +339,11 @@ a {
     justify-content: center;
 }
 
-.hover .sociallistone: {
+..sociallistone:hover {
     background-color: #404bbf;
 }
 
-.focus .sociallistone {
+.sociallistone:focus {
     background-color: #404bbf;
 }
 
