@@ -443,6 +443,15 @@ a {
     transition: transform 0.3s ease;
 }
 
+.img-container:hover .div-four {
+    transform: translateY(0%);
+}
+
+.img-container {
+    position: relative;
+    overflow: hidden;
+}
+
 
 /* footer */
 .foot {
