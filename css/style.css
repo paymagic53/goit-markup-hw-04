@@ -339,12 +339,16 @@ a {
     justify-content: center;
 }
 
-..sociallistone:hover {
+.sociallistone:hover {
     background-color: #404bbf;
 }
 
 .sociallistone:focus {
     background-color: #404bbf;
+}
+
+.soc {
+    fill: #f4f4fd;
 }
 
 .sect-tree-p {
