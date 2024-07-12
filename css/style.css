@@ -24,8 +24,7 @@ ul {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-    position: relative;
-    color: #404bbf;
+
 }
 
 img {
@@ -77,6 +76,8 @@ a {
     color: #2e2f42;
     padding: 24px 0 24px;
     display: block;
+    position: relative;
+
 }
 
 .link:hover {
