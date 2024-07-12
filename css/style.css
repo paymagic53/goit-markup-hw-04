@@ -381,7 +381,24 @@ a {
     margin: 0 auto;
     display: flex;
     align-items: baseline;
-    margin-right: 120px
+
+}
+
+.content {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
+
+.social-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-text {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 10px;
 }
 
 .foot-p {
